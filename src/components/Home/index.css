@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  font-family: 'Roboto';
+  text-align: center;
+  border-radius: 12px;
+  padding: 72px;
+  margin: 20%;
+}
